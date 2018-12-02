@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\mb\git\git\main.cpp(3): fatal error C1083: Не удается открыть файл включение: minus.h: No such file or directory,
+  minus.cpp
+d:\mb\git\git\minus.cpp(1): fatal error C1083: Не удается открыть файл включение: minus.h: No such file or directory,
+  Создание кода...
