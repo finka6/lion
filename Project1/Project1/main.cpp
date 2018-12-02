@@ -1,6 +1,8 @@
 #include <iostream>
 #include "minus.h"
 #include "del.h"
+#include "plus.h"
+#include "umn.h"
 
 using namespace std;
 
@@ -28,6 +30,16 @@ int main()
 	case 2:
 	{
 		cout << MyDiv(a, b) << endl;
+		break;
+	}
+	case 3:
+	{
+		cout << slozh(a, b) << endl;
+		break;
+	}
+	case 4:
+	{
+		cout << umn(a, b) << endl;
 		break;
 	}
 	default:

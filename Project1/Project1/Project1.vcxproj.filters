@@ -24,12 +24,24 @@
     <ClCompile Include="del.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="umn.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="plus.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="minus.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="del.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="umn.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="plus.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

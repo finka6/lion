@@ -118,10 +118,14 @@
     <ClCompile Include="del.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="minus.cpp" />
+    <ClCompile Include="plus.cpp" />
+    <ClCompile Include="umn.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="del.h" />
     <ClInclude Include="minus.h" />
+    <ClInclude Include="plus.h" />
+    <ClInclude Include="umn.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
